@@ -1,0 +1,31 @@
+/*reset*/
+body,h1,h2,h3,h4,h5,h6,hr,p,dl,dt,dd,ul,ol,li,form,fieldset,legend,button,input,textarea,th,td{margin:0;padding:0;}
+body,button,input,select,textarea{font:12px/1.5 arial,tahoma,\5b8b\4f53}
+h1,h2,h3,h4,h5,h6{font-size:100%;}
+fieldset,img{border:0;}
+ul,ol{list-style:none;}
+a{text-decoration:none;outline:none;}
+a:hover{color:#f70;text-decoration:underline;cursor:pointer;}
+a:focus{outline:0;}
+.clear{clear:both;display:block;height:0;overflow:hidden;font-size:0;}
+button,input,select,textarea{font-size:100%;outline:none}
+table{border-collapse:collapse;border-spacing:0;}
+.hide{display:none;}
+.l{float:left;}
+.r{float:right;}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.clearfix{zoom:1;}
+
+.all-list{width:800px;margin:20px auto;font-family:Microsoft YaHei;border:1px solid #D8D8D8;}
+.all-list h1{clear:both;}
+.all-list h4,.all-list h5,.all-list p,.all-list h6{margin:0 20px 6px 10px;font-size:12px;font-weight:normal;}
+.all-list h3{margin:0px 10px 10px;}
+.all-list h4{display:inline;float:left;}
+.all-list h6{clear:both;}
+.all-list p{clear:both;}
+.all-list label{float:left;color:#999;}
+.all-list span{color:#000;}
+.all-list p span{float:left;width:700px;line-height:1.8;}
+.all-list ol{clear:both;margin:0 10px;padding:10px 0 10px 30px;list-style:decimal;}
+.all-list ol,.all-list li{line-height:1.8;font-size:14px;}
+.all-list ol li span{padding-left:20px;font-size:12px;color:#999;}
